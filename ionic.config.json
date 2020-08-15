@@ -1,0 +1,7 @@
+{
+  "name": "twilight-storm-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
